@@ -32,7 +32,7 @@ chmod +x SpoofGaurd.sh
 
 # Help 
 
-Just specify./SpoofGaurd.sh 
+Just specify ./SpoofGaurd.sh 
 
 # Notes
 * Lack of an SPF or DMARC record contributes to a weak configuration.
