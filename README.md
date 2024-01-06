@@ -25,4 +25,14 @@ chmod +x SpoofGaurd.sh
 
 # Usage 
 # Check a single domain 
+./Spoofchecker.sh -d Google.com
+
+# Check Domains from a file
+./SpoofGaurd.sh -f domains.txt
+
+# Help 
+
+Just specify./SpoofGaurd.sh 
+
+
 
