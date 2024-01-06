@@ -1,4 +1,4 @@
-# SpoofGaurd
+# SpoofGuard
 
 # Overview 
 SpoofGuard is a bash script designed to check the email security configurations of a domain. It specifically focuses on SPF and DMARC records to assess the vulnerability of a domain to email spoofing. 
