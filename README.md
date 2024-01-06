@@ -34,5 +34,9 @@ chmod +x SpoofGaurd.sh
 
 Just specify./SpoofGaurd.sh 
 
+# Notes
+* Lack of an SPF or DMARC record contributes to a weak configuration.
+* A strong SPF record should specify ~all or -all.
+* A strong DMARC policy should be set to p=reject or p=quarantine.
 
 
