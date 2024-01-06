@@ -12,3 +12,17 @@ SpoofGuard is a bash script designed to check the email security configurations 
 # Prerequisite 
 * Bash
 * dig utility (usually included in DNS-related packages)
+
+# Installation 
+
+https://github.com/Dooms-D4y/SpoofGaurd.git
+
+cd SpoofGaurd 
+
+chmod +x SpoofGaurd.sh
+
+./SpoofGaurd.sh
+
+# Usage 
+# Check a single domain 
+
