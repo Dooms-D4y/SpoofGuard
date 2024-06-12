@@ -17,22 +17,22 @@ SpoofGuard is a bash script designed to check the email security configurations 
 
 https://github.com/Dooms-D4y/SpoofGuard.git
 
-cd SpoofGaurd 
+cd SpoofGuard 
 
-chmod +x SpoofGaurd.sh
+chmod +x SpoofGuard.sh
 
 ./SpoofGuard.sh
 
 # Usage 
 # Check a single domain 
-./Spoofchecker.sh -d Google.com
+./SpoofGuard.sh -d Google.com
 
 # Check Domains from a file
 ./SpoofGaurd.sh -f domains.txt
 
 # Help 
 
-Just specify ./SpoofGaurd.sh 
+Just specify ./SpoofGuard.sh 
 
 # Notes
 * Lack of an SPF or DMARC record contributes to a weak configuration.
