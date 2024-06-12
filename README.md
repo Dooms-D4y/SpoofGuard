@@ -21,7 +21,7 @@ cd SpoofGaurd
 
 chmod +x SpoofGaurd.sh
 
-./SpoofGaurd.sh
+./SpoofGuard.sh
 
 # Usage 
 # Check a single domain 
